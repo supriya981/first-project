@@ -37,7 +37,7 @@ body{
 </head>
 <body>
 	<h2>Card Gussing Game</h2>
-	<p>Click "Shuffle" and ry to find the Ace!</p>
+	<p>Click "Shuffle" and try to find the Ace!</p>
 <div class="game-container">
 	<div class="class hidden" id="card1" onclick="guessCard(1)">?</div>
 	<div class="class hidden" id="card2" onclick="guessCard(2)">?</div>
